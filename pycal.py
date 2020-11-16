@@ -277,7 +277,7 @@ btnLgamma=Button(calc, text="lgamma", width=6, height=2, font=('arial', 20, 'bol
 lblDisplay=Label(calc, text="Scientific Calculator", font=('arial', 30, 'bold'), justify =CENTER)
 lblDisplay.grid(row=0, column=4, columnspan=4)
 
-lblDisplay=Label(calc, text="Linux Repositories", font=('arial', 30, 'bold'), justify =CENTER)
+lblDisplay=Label(calc, text="Py Calculator", font=('arial', 30, 'bold'), justify =CENTER)
 lblDisplay.grid(row=6, column=0, columnspan=4)
 
 
