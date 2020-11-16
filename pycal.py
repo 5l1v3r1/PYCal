@@ -285,7 +285,7 @@ lblDisplay.grid(row=6, column=0, columnspan=4)
 # Menu and function
 
 def iExit():
-    iExit = tkinter.messagebox.askyesno("PyCal", "Coded by @AbirHasan2005\n\nAre you sure to Exit Calculator?")
+    iExit = tkinter.messagebox.askyesno("PyCal", "Coded by @CyberBoyAyush\n\nAre you sure to Exit Calculator?")
     if iExit>0:
         root.destroy()
         return
