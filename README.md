@@ -9,6 +9,15 @@
 ## Requirements:
    - Python v3
    - Tkinter Python Module (python3-tk), (tkinter)
+
+#Commands:
+* First Install Git And Python In Your Pc
+* Open Command Prompt
+- Setup Python3 and Git.
+	- `git clone https://github.com/CyberBoyAyush/PYCal`
+	- `cd PYCal`
+	- `pip3 install -r requirements.txt`
+	- `python3 pycal.py`
    
 ## Follow on:
 <p align="left">
